@@ -1,4 +1,4 @@
-# Movie Watchlist
+# Unit Converter
 
 **Description:**
 Student project - Metric/Imperial Unit Conversion
